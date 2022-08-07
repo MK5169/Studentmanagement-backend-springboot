@@ -1,2 +1,2 @@
-# studentmakers_backend_Service
- 
+# Studentmanagement-backend-springboot
+ Spring Boot Application for Student Management.
